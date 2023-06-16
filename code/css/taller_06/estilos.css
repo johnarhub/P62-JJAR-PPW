@@ -5,10 +5,39 @@
 .container {
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-.item {
+.item1 {
     border: 1px dotted blue;
     padding: 10px;
     margin: 10px;
+    text-align: center;
+    height: 200px;
 }
+.item2 {
+    border: 1px dotted blue;
+    padding: 10px;
+    margin: 10px;
+    height: 300px;
+ }
+ .item3 {
+    border: 1px dotted blue;
+    padding: 10px;
+    margin: 10px;
+    height: 150px;
+ }
+ .item4 {
+    border: 1px dotted blue;
+    padding: 10px;
+    margin: 10px;
+    height: 400px;
+ }
+ .item5 {
+    border: 1px dotted blue;
+    padding: 10px;
+    margin: 10px;
+    height: 250px;
+ }

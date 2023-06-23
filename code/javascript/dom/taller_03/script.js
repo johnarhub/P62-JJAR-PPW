@@ -5,3 +5,8 @@ function cargar_elemento() {
     h1.appendChild(texto)
     container.appendChild(h1)
 }
+
+function eliminar_elemento() {
+    var container = document.getElementById('container')
+    container.removeChild( container.lastElementChild )
+}

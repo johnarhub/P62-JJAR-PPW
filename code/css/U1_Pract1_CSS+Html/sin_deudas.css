@@ -12,12 +12,12 @@
 
 .item {
     padding: 10px;
-    border: 1px solid orange;
+    border: 1px solid #ed8900;
 }
 
 .header {
     grid-area: header;
-    background-color: goldenrod;
+    background-color: #ffa722;
 }
 
 .left {
@@ -51,7 +51,7 @@
 
 .footer {
     grid-area: footer;
-    background-color: goldenrod;
+    background-color: #ffa722;
 }
 
 .menu {
@@ -59,7 +59,7 @@
     margin: 5px;
     padding: 5px;
     color: black;
-    background-color: rgb(229,163, 101);
+    background-color: orange;
     text-decoration: none;
 }
 .menu:hover {
@@ -132,5 +132,5 @@ h2 {
 .c1-1, .c2-1, .c4-1, .c2-2, .c4-2, 
 .c5-2, .c6-2, .c1-3, .c3-3, .c4-3, 
 .c2-4, .c2-5, .c3-5, .c4-5 {
-    background-color: green;
+    background-color:#00FF00;
 }

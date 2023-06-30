@@ -12,12 +12,12 @@
 
 .item {
     padding: 10px;
-    border: 1px solid orange;
+    border: 1px solid  #ed8900;
 }
 
 .header {
     grid-area: header;
-    background-color: goldenrod;
+    background-color: #ffa722;
 }
 
 .left {
@@ -51,7 +51,7 @@
 
 .footer {
     grid-area: footer;
-    background-color: goldenrod;
+    background-color:#ffa722;
 }
 
 .menu {
@@ -59,7 +59,7 @@
     margin: 5px;
     padding: 5px;
     color: black;
-    background-color: rgb(229,163, 101);
+    background-color: orange;
     text-decoration: none;
 }
 .menu:hover {

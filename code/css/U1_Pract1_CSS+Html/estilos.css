@@ -132,7 +132,7 @@ h2 {
 .c1-1, .c2-1, .c4-1, .c2-2, .c4-2, 
 .c5-2, .c6-2, .c1-3, .c3-3, .c4-3, 
 .c2-4, .c2-5, .c3-5, .c4-5 {
-    background-color: green;
+    background-color:#00FF00;
 }
 .c3-1, .c3-2, .c1-2, .c3-4, .c4-4 {
     background-color: yellow;
